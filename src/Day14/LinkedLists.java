@@ -30,9 +30,9 @@ public static void main(String[] args) {
 
 	             LinkedLists list = new LinkedLists();
 	
-	             list.add(56);
-	             list.add(30);
 	             list.add(70);
+	             list.add(30);
+	             list.add(56);
  
                    }
                }
